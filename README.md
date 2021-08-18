@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirvishesh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> , I'm Nirvishesh</h1>
 <!--GIF: Tenor--><img align="right" src="https://c.tenor.com/4uu_Eb0vj40AAAAM/machine-learning-baby-crying.gif" />
 
 **A little bit about me** <br/>
